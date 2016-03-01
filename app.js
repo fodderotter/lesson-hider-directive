@@ -1,1 +1,1 @@
-angular.module('directivePractice', []);
+var app = angular.module('directivePractice', []);
